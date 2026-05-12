@@ -42,54 +42,8 @@ O objetivo deste projeto é praticar:
 
 ---
 
-## 📂 Estrutura do projeto
-
-bash
-taskflow-app/
-│
-├── index.html
-├── style.css
-├── script.js
-│
-├── assets/
-│   ├── logo.png
-│   └── preview.png
-│
-├── docs/
-│   └── projeto.md
-│
-└── README.md
 
 
----
-
-## ▶️ Como executar o projeto
-
-### Clone o repositório
-
-bash
-git clone https://github.com/seuusuario/taskflow-app.git
-
-
-### Entre na pasta
-
-bash
-cd taskflow-app
-
-
-### Execute
-
-Abra o arquivo index.html no navegador.
-
----
-
-## 📸 Preview
-
-<p align="center">
-  <img src="./assets/preview.png" width="700">
-</p>
-
----
 
 ## 📚 Objetivo acadêmico
 
