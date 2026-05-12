@@ -1,4 +1,5 @@
-# taskflow.app
+# tast.app
+
 sistema fictício de gerenciamento de tarefas desenvolvimento para pratica e Git e Github  
 <p align="center">
   <img src="./assets/logo.png" width="180">
